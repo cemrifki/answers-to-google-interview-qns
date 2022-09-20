@@ -1,6 +1,6 @@
 # ATexPro Light
 
-This document is about helping users install and use ATexPro Light, which stands for Afiniti Text Preprocessor Light version. They can also leverage this package along with ADAIR as will be explained.
+This document is about helping users install and use ATexPro Light with the version 0.1.0, which stands for Afiniti Text Preprocessor Light version. They can also leverage this package along with ADAIR as will be explained.
 
 ## How to install and run it on the server
 
