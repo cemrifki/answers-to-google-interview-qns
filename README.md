@@ -28,7 +28,7 @@ config['feat_ext'].transformer = True
 
 ## How to run it from within your local computer
 
-The main code for ATexPro light on BitBucket (https://code.afiniti.com/projects/DATA/repos/nlp/browse?at=refs%2Fheads%2Fatex_pro_light) can also be pulled and be run on one's local computer by creating a virtual environment on PyCharm in the first place. All the dependencies are stated in the requirements.txt file in the docs folder. However, as mentioned above, the creation of a virtual environment is NOT needed for the servers. 
+The main code for ATexPro light on BitBucket (https://code.afiniti.com/projects/DATA/repos/nlp/browse?at=refs%2Fheads%2Fatex_pro_light) can also be pulled and be run on one's local computer by creating a virtual environment on PyCharm in the first place, for which we use Python 3.8.2. All the dependencies are stated in the requirements.txt file in the docs folder. However, as mentioned above, the creation of a virtual environment is NOT needed for the servers. 
 
 ## Credits
 
