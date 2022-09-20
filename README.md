@@ -51,4 +51,4 @@ The main code for ATexPro light on BitBucket (https://code.afiniti.com/projects/
 
 ## Credits
 
-Code was written by Bilge Sipal Sert, Cem Rifki Aydin, and Arjumand Younus.
+Code was written by Bilge Sipal Sert (bilge.sipal@afiniti.com), Cem Rifki Aydin (cem.aydin@afiniti.com), and Arjumand Younus.
