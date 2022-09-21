@@ -28,11 +28,11 @@ The CUDA might not work for the ADAIR docker on the AI server. After installing 
 	```
 	python -m pip install --user --no-index --no-deps **.whl
 	``` 
-      2. Copy the file in the location ``` -~/work/Bilge_NLP/column_processing/sentence_transformer.tar.gz ``` into your folder, extract it, go inside the new folder, and run the following command:
+      2. Copy the file in the location ~/work/Bilge_NLP/column_processing/sentence_transformer.tar.gz into your folder, extract it, go inside the new folder, and run the following command:
 	```
 	python setup.py install
 	```	
-      3. Go to the directory ```~/work/NLP_shared``` and run the following command:
+      3. Go to the directory ~/work/NLP_shared and run the following command:
 	```
 	python -m pip install --user --no-index --no-deps atexpro_light-0.1.0-py3-none-any.whl
 	```
