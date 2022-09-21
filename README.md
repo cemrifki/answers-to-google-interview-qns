@@ -1,6 +1,6 @@
 # ATexPro Light
 
-This document is about helping users install and use ATexPro Light, which stands for Afiniti Text Preprocessor Light version. The initial version of it is 0.1.0. They can also leverage this package along with ADAIR as will be explained.
+This document is about helping users install and use ATexPro Light, which stands for Afiniti Text Processor Light version. The initial version of it is 0.1.0. They can also leverage this package along with ADAIR as will be explained.
 
 ## How to install and run it on the server
 
@@ -28,7 +28,7 @@ The CUDA might not work for the ADAIR docker on the AI server. After installing 
 	```
 	python -m pip install --user --no-index --no-deps **.whl
 	``` 
-      2. Copy the file in the location ~/work/Bilge_NLP/column_processing/sentence_transformer.tar.gz into your folder, extract it, go inside the new folder, and run the following command:
+      2. Copy the file in the location ~/work/NLP_shared/column_processing/sentence_transformer.tar.gz into your folder, extract it, go inside the new folder, and run the following command:
 	```
 	python setup.py install
 	```	
